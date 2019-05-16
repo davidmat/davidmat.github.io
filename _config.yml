@@ -28,6 +28,7 @@ projects:
     # - repo-name
 
 social_media:
+  twitter: davidmat
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -38,7 +39,6 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: davidmat
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
